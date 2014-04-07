@@ -1,0 +1,8 @@
+{
+  "id": "w1mvy",
+  "password": "openssl passwd -1 'your pass'",
+  "ssh_keys": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDSaPAHxYae012COaFY2G71bCquxWm/sVSziENwRvfdXENFqMGcAVWk92F65FmvBUovWoELIUTyOWWZ8Woyg+6uD3oMCb7wtw4XzsbRUmKmzkjs9MmYuwb31KW6VbnyCemMwequ5dwyfBD+aM2ltz8a16dXiFLqKJw/gBKdIlNH6/dVPm6rJ+/WPoJVygfPgxT85D/QNXbHVEhgQgaqUr5CGtZ0eexwWP6jZG9JsjYL9XAipBIs0087qaAWlYaBnLq2ZqjiPvV5gq7KNgkq5axkz9onvxLLQKpjYhT9z0Lz6rCfyzbZHknGjoVCkNgTNUbP5ZKXcg3rY9EIoIqgHnuV",
+  "groups": ["w1mvy"],
+  "uid": 1111,
+  "shell": "\/bin\/bash"
+}
